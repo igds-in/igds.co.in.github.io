@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to IGDS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            padding: 50px;
+        }
+        h1 { color: #333; }
+        p { color: #666; font-size: 18px; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to igds.co.in</h1>
+    <p>Our brand new website is coming soon!</p>
+</body>
+</html>
